@@ -16,7 +16,7 @@ I'm currently pursuing my Bachelor of Technology at VSM College of Engineering, 
 
 Here are some of my key projects:
 
-- **[JobFit Analyzer with Google Gemini Pro](https://github.com/your_repo)**: An AI-powered tool designed to enhance job applications by streamlining resume screening. This project utilizes Google Gemini Pro for AI capabilities and Streamlit for the user interface.
+- **[JobFit Analyzer with Google Gemini Pro]((https://github.com/Devisrinivasgannabattula/JobFitAnalyzer-using-Google_gemini_pro_LLM.git))**: An AI-powered tool designed to enhance job applications by streamlining resume screening. This project utilizes Google Gemini Pro for AI capabilities and Streamlit for the user interface.
 -**Credit card Fraud detection
 -**Sales prediction using Python
 -**Titanic survival prediction
