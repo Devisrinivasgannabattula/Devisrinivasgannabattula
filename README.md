@@ -19,13 +19,13 @@ Here are some of my key projects:
 - **[JobFit Analyzer with Google Gemini Pro Vision LLM]((https://github.com/Devisrinivasgannabattula/JobFitAnalyzer-using-Google_gemini_pro_LLM.git))**: An AI-powered tool designed to enhance job applications by streamlining resume screening. This project utilizes Google Gemini Pro for AI capabilities and Streamlit for the user interface.
 
   
-- **(Credit card Fraud detection)**
+- **Credit card Fraud detection**
 
 
-- **(Sales prediction using Python)**
+- **Sales prediction using Python**
 
   
-- **(Titanic survival prediction)**
+- **Titanic survival prediction**
   
 Check out more of my projects [here](https://github.com/Devisrinivasgannabattula?tab=repositories).
 
