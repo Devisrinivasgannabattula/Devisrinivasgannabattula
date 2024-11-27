@@ -57,7 +57,8 @@ I have completed several online courses through HP LIFE, including:
 I’m eager to connect with like-minded individuals and industry professionals. Whether you’re interested in collaboration or have ideas to discuss, feel free to reach out!
 
 - **LinkedIn**: ((https://www.linkedin.com/in/devisrinivasgannabattula/))
-- **Email**: gannabattulads@gmail.com
+- **Mail**: gannabattulads@gmail.com
+- **CheckMyportofolio**:(https://devisrinivasgannabattula.github.io/Myportofolio_website/index.html)
 
 ---
 
