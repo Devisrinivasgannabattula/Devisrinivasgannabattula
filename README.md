@@ -58,7 +58,6 @@ I’m eager to connect with like-minded individuals and industry professionals. 
 
 - **LinkedIn**: ((https://www.linkedin.com/in/devisrinivasgannabattula/))
 - **Mail**: gannabattulads@gmail.com
-- **CheckMyportofolio**:(https://devisrinivasgannabattula.github.io/Myportofolio_website/index.html)
 
 ---
 
