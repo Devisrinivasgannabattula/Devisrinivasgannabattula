@@ -56,7 +56,7 @@
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn: *(https://www.linkedin.com/devisrinivasgannabattula)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/devisrinivasgannabattula)*  
 - 📧 Email: *(gannabattulads@gmail.com)*  
 
 ---
