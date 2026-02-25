@@ -1,16 +1,16 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+G.+Devisrinivas;Aspiring+Java+Developer;DSA+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Devisrinivas;Aspiring+Java+Developer;DSA+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Devisrinivasgannabattula&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```java
 public class Developer {
@@ -30,60 +30,58 @@ public class Developer {
 
 <div align="center">
 
-### 💡 **Turning failures into lessons and lessons into skills**
+###  **Turning failures into lessons and lessons into skills**
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 <div align="center">
 
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript ES6](https://img.shields.io/badge/JavaScript%20ES6-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap5](https://img.shields.io/badge/Bootstrap5-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
-### Core Concepts
+### Core Concepts & Cloud
 ![OOP](https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge&logo=java)
 ![DSA](https://img.shields.io/badge/DSA-In_Progress-green?style=for-the-badge&logo=databricks)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-Active-orange?style=for-the-badge&logo=codeforces)
+![AWS Basics](https://img.shields.io/badge/AWS%20Basics-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37726.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PhpMyAdmin](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
 </div>
 
 ---
+## GitHub Statistics (Since Nov 2023)
 
-## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devisrinivasgannabattula&theme=tokyonight&hide_border=true"/>
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true&area=true" width="100%">
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devisrinivasgannabattula&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
 
 ---
+
 
 ## 💻 Coding Profiles & Achievements
 
 <div align="center">
-
-### LeetCode Stats
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/DevisrinivasGannabattula/)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/DevisrinivasGannabattula?theme=dark&font=Noto%20Sans&ext=heatmap)
 
 ### HackerRank Profile
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Devisrinivas)
@@ -110,20 +108,6 @@ public class Developer {
 
 ---
 
-## 📂 Featured Projects & Repositories
-
-<div align="center">
-
-🔹 **Java Fundamentals** - Core Java concepts and implementations
-🔹 **DSA Practice** - Solutions to various DSA problems
-🔹 **Mini Projects** - Practical applications and experiments
-🔹 **Learning Journey** - Step-by-step learning implementations
-
-> *Every repository reflects my learning journey, not just the final result.*
-
-</div>
-
----
 
 ## 🌱 Learning Philosophy
 
@@ -151,7 +135,6 @@ public class Developer {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devisrinivasgannabattula)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gannabattulads@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/DevisrinivasGannabattula/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Devisrinivas)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/gannabatmfqr)
 
@@ -159,19 +142,9 @@ public class Developer {
 
 ---
 
-## 📌 Quick Stats
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ **If you find my repositories helpful, feel free to star them!**
 
 ### 🤝 **Always open to learning, collaboration, and growth**
 
