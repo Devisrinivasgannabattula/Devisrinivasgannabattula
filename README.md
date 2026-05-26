@@ -95,21 +95,10 @@ public class Developer {
 
 ---
 
-## GitHub Statistics
-
+## GitHub Statistics (Since Nov 2023)
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Devisrinivasgannabattula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devisrinivasgannabattula&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devisrinivasgannabattula&bg_color=0D1117&color=38bdae&line=628fdb&point=ffffff&area=true&hide_border=true"/>
+    <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devisrinivasgannabattula&theme=tokyonight&hide_border=true"/> </p> 
+    <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devisrinivasgannabattula&theme=tokyo-night&hide_border=true&area=true" width="100%"/> </p>
 
 </div>
 
