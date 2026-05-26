@@ -20,11 +20,7 @@
 
 ## About Me
 
-<div align="center">
 
-<img height="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-</div>
 
 ```java
 public class Developer {
