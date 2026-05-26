@@ -16,11 +16,11 @@
 public class Developer {
     private String name = "G. Devisrinivas";
     private String role = "Aspiring Java Developer";
-    private String focus = "DSA & Problem Solving";
+    private String focus = "Developing WebApps & ProblemSolving ";
     private String motto = "Consistency > Motivation";
 
     public void currentlyDoing() {
-        System.out.println("🔍 Mastering DSA from scratch");
+        System.out.println("🔍 Mastering DevSecOps Tools from scratch");
         System.out.println("🧠 Building logical thinking patterns");
         System.out.println("🏗️ Creating meaningful Java projects");
         System.out.println("📈 Preparing for technical interviews");
