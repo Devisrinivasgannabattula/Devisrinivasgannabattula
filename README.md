@@ -96,7 +96,7 @@ public class Developer {
 
 | Focus Area | Description | Status |
 |:----------:|:------------|:------:|
-| 🔍 | Mastering DSA from scratch | 🔄 In Progress |
+| 🔍 | Mastering FrontEnd & Backend from scratch | 🔄 In Progress |
 | 🧠 | Improving logical thinking & coding patterns | 🔄 In Progress |
 | 🏗️ | Building meaningful Java projects | 🔄 In Progress |
 | 📈 | Preparing for technical interviews | 🔄 In Progress |
