@@ -50,7 +50,6 @@ public class Developer {
 
 ### Core Concepts & Cloud
 ![OOP](https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge&logo=java)
-![DSA](https://img.shields.io/badge/DSA-In_Progress-green?style=for-the-badge&logo=databricks)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-Active-orange?style=for-the-badge&logo=codeforces)
 ![AWS Basics](https://img.shields.io/badge/AWS%20Basics-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
