@@ -85,8 +85,6 @@ public class Developer {
 ### HackerRank Profile
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Devisrinivas)
 
-### GeeksforGeeks Profile
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/gannabatmfqr)
 
 </div>
 
