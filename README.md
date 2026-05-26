@@ -27,14 +27,11 @@ public class Developer {
 
     private String name = "G. Devisrinivas";
     
-    private String role = 
-            "Aspiring Java Full Stack Developer";
+    private String role = "Aspiring Java Full Stack Developer";
     
-    private String focus = 
-            "Developing Web Applications";
+    private String focus = "Developing Web Applications";
     
-    private String motto = 
-            "Consistency > Motivation";
+    private String motto =  "Consistency > Motivation";
 
     public void currentlyDoing() {
 
@@ -100,23 +97,19 @@ public class Developer {
 
 ## GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Devisrinivasgannabattula&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devisrinivasgannabattula&theme=tokyonight&hide_border=true"/>
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Devisrinivasgannabattula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devisrinivasgannabattula&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Devisrinivasgannabattula&theme=tokyonight&hide_border=true&background=0D1117"/>
 
----
+</div>
 
-## GitHub Achievements
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Devisrinivasgannabattula&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devisrinivasgannabattula&bg_color=0D1117&color=38bdae&line=628fdb&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -167,29 +160,28 @@ public class Developer {
 
 </div>
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devisrinivasgannabattula)
+<a href="https://www.linkedin.com/in/devisrinivasgannabattula" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gannabattulads@gmail.com)
+<a href="mailto:gannabattulads@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Devisrinivas)
+<a href="https://www.hackerrank.com/profile/Devisrinivas" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
 
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/gannabatmfqr)
+<a href="https://www.geeksforgeeks.org/profile/gannabatmfqr" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
 </div>
 
----
 
 <div align="center">
 
