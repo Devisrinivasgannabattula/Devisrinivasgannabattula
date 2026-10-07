@@ -1,155 +1,101 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Devisrinivas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer&descAlignY=58"/>
+## 👨‍💻 About Me
 
-<div align="center">
+Hi, I'm **Devi Srinivas** 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&height=100&lines=Hi+There%2C+I'm+Devisrinivas;Aspiring+Software+Developer;Frontend+Enthusiast;Java+Full+Stack+Learner)](https://git.io/typing-svg)
+I'm a **Java Full Stack Developer** and a **B.Tech Computer Science graduate** passionate about building practical, scalable, and user-friendly web applications.
 
-</div>
+I have hands-on experience with **Java, Spring, Spring Boot, Hibernate/JPA, REST APIs, React, JavaScript, HTML, CSS, Bootstrap, and Oracle Database**. I enjoy understanding how applications work from the frontend to the backend and database layer.
 
-<div align="center">
+🚀 Currently focused on:
+- Building full-stack applications using **Java + Spring Boot + React**
+- Developing and consuming **RESTful APIs**
+- Working with **Oracle Database, JPA & Hibernate**
+- Exploring **Spring AI and Generative AI APIs**
+- Learning and improving **Spring Security, JWT, Docker, Kubernetes & Kafka**
+- Strengthening my understanding of real-world application architecture and development practices
 
-<img src="https://komarev.com/ghpvc/?username=Devisrinivasgannabattula&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-
-<img src="https://img.shields.io/github/followers/Devisrinivasgannabattula?style=for-the-badge&logo=github&color=0891b2"/>
-
-<img src="https://img.shields.io/github/stars/Devisrinivasgannabattula?style=for-the-badge&logo=github&color=facc15"/>
-
-</div>
-
----
-
-## About Me
-
-
-
-```java
-public class Developer {
-
-    private String name = "G. Devisrinivas";
-    
-    private String role = "Aspiring Java Full Stack Developer";
-    
-    private String focus = "Developing Web Applications";
-    
-    private String motto =  "Consistency > Motivation";
-
-    public void currentlyDoing() {
-
-        System.out.println("Mastering DevSecOps Tools");
-        System.out.println("Learning Maven & Build Automation");
-        System.out.println("Building Meaningful Java Projects");
-        System.out.println("Preparing for Technical Interviews");
-    }
-}
-```
-
-<div align="center">
-
-### Turning failures into lessons and lessons into skills
-
-</div>
+🎯 **Career Goal:** To start my career as a **Java Full Stack Developer / Java Developer / Software Engineer** and continuously grow as a software professional.
 
 ---
 
-## Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-### Languages & Frameworks
+### ☕ Languages
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript ES6](https://img.shields.io/badge/JavaScript%20ES6-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python Basic](https://img.shields.io/badge/Python-Basic-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌱 Backend & Frameworks
+
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+
+### 🤖 AI & Generative AI
+
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-Basic-8E75B2.svg?style=for-the-badge)
+
+### ⚛️ Frontend
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap5](https://img.shields.io/badge/Bootstrap5-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript ES6](https://img.shields.io/badge/JavaScript%20ES6-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap5](https://img.shields.io/badge/Bootstrap5-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
-### Core Concepts & Cloud
+### 🗄️ Databases
 
-![OOP](https://img.shields.io/badge/OOP-Concepts-blue?style=for-the-badge&logo=java)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-Active-orange?style=for-the-badge&logo=codeforces)
-![AWS Basics](https://img.shields.io/badge/AWS%20Basics-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%2021c-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & Platforms
+### 🔐 Security & Testing
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-Basics-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### 🧰 Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37726.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PhpMyAdmin](https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 </div>
 
 ---
 
-## Development Environment
+## 💻 Development Environment
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,linux,vscode,eclipse,git,github"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,typescript,js,html,css,bootstrap,python,oracle,mysql,mongodb,aws,docker,kubernetes,kafka,maven,git,github,vscode,eclipse,postman"/>
 
 </div>
 
 ---
 
-## GitHub Statistics (Since Nov 2023)
-<div align="center">
-    <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devisrinivasgannabattula&theme=tokyonight&hide_border=true"/> </p> 
-    <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devisrinivasgannabattula&theme=tokyo-night&hide_border=true&area=true" width="100%"/> </p>
-
-</div>
-
----
-
-## Coding Profiles & Achievements
-
-<div align="center">
-
-### HackerRank Profile
-
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Devisrinivas)
-
-</div>
-
----
-
-<!--## Current Focus
-
-<div align="center">
-
-| Focus Area | Description | Status |
-|:----------:|:------------|:------:|
-| Learning Maven & Build Automation | Exploring DevSecOps Tools | In Progress |
-| Frontend Development | Improving UI Development Skills | In Progress |
-| Java Projects | Building Real-world Applications | In Progress |
-| Technical Preparation | Preparing for Interviews | In Progress |
-
-</div>
-
----
-
-## Learning Philosophy
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║  "Success doesn't come from the first step,               ║
-║   it comes from NOT STOPPING after failures."             ║
-║                                                            ║
-║  Consistency > Motivation                                 ║
-║  Failures → Lessons → Skills                              ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-</div>--!>
-
-## Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -161,16 +107,9 @@ public class Developer {
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/Devisrinivas" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/gannabatmfqr" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
 </div>
 
+---
 
 <div align="center">
 
@@ -181,6 +120,8 @@ public class Developer {
 ---
 
 <div align="center">
+
+### 💙 Building. Learning. Improving. One application at a time.
 
 ### Always open to learning, collaboration, and growth
 
