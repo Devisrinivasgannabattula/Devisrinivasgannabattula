@@ -116,7 +116,7 @@ public class Developer {
 
 ---
 
-## Current Focus
+<!--## Current Focus
 
 <div align="center">
 
@@ -147,7 +147,7 @@ public class Developer {
 ╚════════════════════════════════════════════════════════════╝
 ```
 
-</div>
+</div>--!>
 
 ## Connect With Me
 
